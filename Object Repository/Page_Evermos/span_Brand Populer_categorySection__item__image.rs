@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Brand Populer_categorySection__item__image</name>
+   <tag></tag>
+   <elementGuidId>d96f7f9b-b1a9-4cb1-8545-37801f7c7419</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/div[2]/div[2]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a563f093-f0a2-4f1a-82ff-d28708fa1952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>categorySection__item__image</value>
+      <webElementGuid>93c7c9aa-63c0-4789-9eb2-dfdbbddb6571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;categorySections scroll-y&quot;]/div[@class=&quot;categorySection&quot;]/div[@class=&quot;categorySection__body&quot;]/div[@class=&quot;categorySection__item&quot;]/a[@class=&quot;categorySection__item__anchor&quot;]/span[@class=&quot;categorySection__item__image&quot;]</value>
+      <webElementGuid>8c695bce-0093-425f-9578-1ed1cbe1fcab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/div[2]/div[2]/div/a/span</value>
+      <webElementGuid>9b3a4ac1-76b8-4707-aa4a-9f00be38486d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/a/span</value>
+      <webElementGuid>bb9cc6ea-9a33-45f8-9928-e93466d44ceb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

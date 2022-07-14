@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verifikasi Nomor Telepon</name>
+   <tag></tag>
+   <elementGuidId>8509d712-72c0-4926-89c9-7a148e34e0c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.pageVerify__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>8b5759f7-878f-43ae-b999-5e0d70ead754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pageVerify__title</value>
+      <webElementGuid>bb95a841-c88f-4d0f-8c2d-ba02010091b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verifikasi Nomor Telepon</value>
+      <webElementGuid>3f281686-74e1-4045-9deb-60537b01c4f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;wrapper--inner&quot;]/div[@class=&quot;pageCopy pageCopy--center&quot;]/h1[@class=&quot;pageVerify__title&quot;]</value>
+      <webElementGuid>a0b7f479-a9b3-4c1e-94bf-2dace0a5fcf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/div/h1</value>
+      <webElementGuid>76693230-e0cc-45c8-b289-faa8ae71e1fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='▼'])[1]/preceding::h1[1]</value>
+      <webElementGuid>97fac0c6-e8dd-4599-ad4f-0d15ec0e90f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afghanistan (‫افغانستان‬‎)'])[1]/preceding::h1[1]</value>
+      <webElementGuid>9869b82b-386d-49aa-8d9d-fbe7b188cc45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verifikasi Nomor Telepon']/parent::*</value>
+      <webElementGuid>d71de805-2864-49ee-ae06-25ba852697c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>fcc150ee-6da3-49c4-8d79-175e8be8a646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Verifikasi Nomor Telepon' or . = 'Verifikasi Nomor Telepon')]</value>
+      <webElementGuid>e606b935-ab1f-4375-8231-f0089ce54686</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
